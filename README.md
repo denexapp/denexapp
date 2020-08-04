@@ -2,7 +2,7 @@
 
 I'm frontend developer. People on the internet call me denexapp.
 
-I write my code with **React** or **Node.js** and I use **Typescript**.
+I write my code with **React** or **Node.js** and I use **TypeScript**.
 
 Fan of serverless-everything and strong typings. 
 
