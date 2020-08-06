@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm frontend developer. People on the internet call me denexapp.
+I'm a frontend developer. People on the internet call me denexapp.
 
 I write my code with **React** or **Node.js** and I use **TypeScript**.
 
