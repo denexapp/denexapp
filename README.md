@@ -8,4 +8,4 @@ Fan of serverless-everything and strong typings.
 
 I'm currently working on [Cute Bot](https://github.com/denexapp/cute-bot) - a bot to moderate conversations on [vk.com](https://vk.com). It's built with **Vercel** and **Fauna DB**.
 
-Also I'm working on [Wallpaper Engine VK Helper](https://github.com/denexapp/) - an **Electron React** app to help manage a Wallpaper Engine [community](https://vk.com/wp.engine).
+Also I'm working on [Wallpaper Engine VK Helper](https://github.com/denexapp/) - an **Electron** app to help manage a Wallpaper Engine [community](https://vk.com/wp.engine).
